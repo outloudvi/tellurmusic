@@ -1,6 +1,7 @@
 [Script Info]
 ; X-Subtitle-Made-By: TransparenTune (t9tune)
 ; X-Translated-By: Ke ke (NetEase Cloudmusic user #133366896)
+; X-Other-Translateion-Contributor: TransparenTune (t9tune)
 ; X-Video-Source: https://www.youtube.com/watch?v=cn4M-fH08XY
 ;
 ; [ Original Music: Mili - world.execute(me); ]
@@ -40,16 +41,16 @@ Style: UHL_3,Noto Sans CJK SC,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.78,Default,,0,0,0,,Switch on the power line\N接上电源
-Dialogue: 0,0:00:01.78,0:00:03.28,Default,,0,0,0,,Remember to put on\N记得装备好
-Dialogue: 0,0:00:03.28,0:00:04.02,Default_BOLD,,0,0,0,,PROTECTION\N绝缘护具\N
+Dialogue: 0,0:00:01.78,0:00:03.28,Default,,0,0,0,,Remember to put on\N记得装备好你的
+Dialogue: 0,0:00:03.28,0:00:04.02,Default_BOLD,,0,0,0,,PROTECTION\N护具绝缘\N
 Dialogue: 0,0:00:04.02,0:00:05.65,Default,,0,0,0,,Lay down your pieces\N摆好棋子
-Dialogue: 0,0:00:05.65,0:00:06.59,Default,,0,0,0,,And let's begin\N开始吧
-Dialogue: 0,0:00:06.59,0:00:07.65,Default_BOLD,,0,0,0,,OBJECT CREATION\N对象生成
-Dialogue: 0,0:00:07.65,0:00:10.22,Default,,0,0,0,,Fill in my data parameters\N输入我的参数
+Dialogue: 0,0:00:05.65,0:00:06.59,Default,,0,0,0,,And let's begin\N然后让我们开始
+Dialogue: 0,0:00:06.59,0:00:07.65,Default_BOLD,,0,0,0,,OBJECT CREATION\N对象创建
+Dialogue: 0,0:00:07.65,0:00:10.22,Default,,0,0,0,,Fill in my data parameters\N输入我的数据参数
 Dialogue: 0,0:00:10.22,0:00:11.32,Default_BOLD,,0,0,0,,INITIALIZATION\N数据初始化
 Dialogue: 0,0:00:11.32,0:00:12.92,Default,,0,0,0,,Set up our new world\N设定好我们的新世界
-Dialogue: 0,0:00:12.92,0:00:14.13,Default,,0,0,0,,And let's begin the\N开始吧
-Dialogue: 0,0:00:14.13,0:00:14.99,Default_BOLD,,0,0,0,,SIMULATION\N模拟程序
+Dialogue: 0,0:00:12.92,0:00:14.13,Default,,0,0,0,,And let's begin the\N然后让我们把
+Dialogue: 0,0:00:14.13,0:00:14.99,Default_BOLD,,0,0,0,,SIMULATION\N模拟实现
 Dialogue: 0,0:00:18.76,0:00:21.40,title_mono,,0,0,0,,world.execute(me);
 Dialogue: 0,0:00:21.40,0:00:27.44,title_mono,,0,0,0,,歌曲：Mili\NPV：땡닢（Eodslv）
 Dialogue: 0,0:00:29.81,0:00:31.41,Default,,0,0,0,,If I'm a set of points\N如果我是一组点
@@ -58,21 +59,21 @@ Dialogue: 0,0:00:31.83,0:00:32.78,Default_Black,,0,0,0,,Then I will give you my\
 Dialogue: 0,0:00:32.78,0:00:33.51,Default_Black_BOLD,,0,0,0,,DIMENSION\N我的次元
 Dialogue: 0,0:00:33.51,0:00:35.08,Default,,0,0,0,,If I'm a circle\N如果我是一个圆
 Dialogue: 0,0:00:35.08,0:00:36.48,Default,,0,0,0,,Then I will give you my\N那么我将献给你
-Dialogue: 0,0:00:36.48,0:00:37.22,Default_Black_BOLD,,0,0,0,,CIRCUMFERENCE\N我的圆周
+Dialogue: 0,0:00:36.48,0:00:37.22,Default_Black_BOLD,,0,0,0,,CIRCUMFERENCE\N我的圆圈
 Dialogue: 0,0:00:37.22,0:00:38.85,Default,,0,0,0,,If I'm a sine wave\N如果我是一条正弦波
 Dialogue: 0,0:00:38.85,0:00:40.22,Default,,0,0,0,,Then you can sit on all my\N那么请你坐上
 Dialogue: 0,0:00:40.22,0:00:41.02,Default_BOLD,,0,0,0,,TANGENTS\N我的切线
 Dialogue: 0,0:00:41.02,0:00:42.49,Default,,0,0,0,,If I approach infinity\N如果我趋近于无穷
-Dialogue: 0,0:00:42.49,0:00:43.66,Default,,0,0,0,,Then you can be my\N那么你便可以成为
+Dialogue: 0,0:00:42.49,0:00:43.66,Default,,0,0,0,,Then you can be my\N那么你就是
 Dialogue: 0,0:00:43.66,0:00:44.59,Default_BOLD,,0,0,0,,LIMITATIONS\N我的极限
 Dialogue: 0,0:00:44.59,0:00:46.26,Default,,0,0,0,,Switch my current\N切换我的电流
 Dialogue: 0,0:00:46.26,0:00:47.89,Default,,0,0,0,,To AC to DC\N从交流到直流
 Dialogue: 0,0:00:47.89,0:00:49.96,Default,,0,0,0,,And then blind my vision\N然后蒙上我的眼睛
-Dialogue: 0,0:00:49.96,0:00:51.50,Default,,0,0,0,,So dizzy so dizzy\N头晕目眩
+Dialogue: 0,0:00:49.96,0:00:51.50,Default,,0,0,0,,So dizzy so dizzy\N如此头晕目眩
 Dialogue: 0,0:00:51.50,0:00:53.60,Default,,0,0,0,,Oh we can travel\N我们可以穿越时空
-Dialogue: 0,0:00:53.60,0:00:55.20,Default,,0,0,0,,To A.D to B.C\N从西历到纪元前
+Dialogue: 0,0:00:53.60,0:00:55.20,Default,,0,0,0,,To A.D to B.C\N从西历到公元前
 Dialogue: 0,0:00:55.20,0:00:57.30,Default,,0,0,0,,And we can unite\N然后成为一体
-Dialogue: 0,0:00:57.30,0:00:58.97,Default,,0,0,0,,So deeply so deeply\N深深入髓
+Dialogue: 0,0:00:57.30,0:00:58.97,Default,,0,0,0,,So deeply so deeply\N深入骨髓之间
 Dialogue: 0,0:00:59.40,0:01:00.34,Default,,0,0,0,,If I can\N如果我能
 Dialogue: 0,0:01:00.34,0:01:02.14,Default,,0,0,0,,If I can give you all the\N如果我能够献给你
 Dialogue: 0,0:01:02.14,0:01:03.08,Default,,0,0,0,,STIMULATIONS\N所有的刺激
@@ -85,7 +86,7 @@ Dialogue: 0,0:01:09.51,0:01:10.42,Default_BOLD,,0,0,0,,EXECUTION\N执行指令
 Dialogue: 0,0:01:10.42,0:01:10.98,Default,,0,0,0,,Though we are trapped\N但我们被困
 Dialogue: 0,0:01:10.98,0:01:11.78,Default_Black,,0,0,0,,Though we are trapped\N但我们被困
 Dialogue: 0,0:01:11.78,0:01:13.22,Default,,0,0,0,,In this strange strange\N在这个异乎寻常的
-Dialogue: 0,0:01:13.22,0:01:14.15,Default_BOLD,,0,0,0,,SIMULATION\N模拟程序之中
+Dialogue: 0,0:01:13.22,0:01:14.15,Default_BOLD,,0,0,0,,SIMULATION\N模拟程序之间
 Dialogue: 0,0:01:14.15,0:01:15.75,Default,,0,0,0,,If I'm an eggplant\N如果我是一根茄子
 Dialogue: 0,0:01:15.75,0:01:17.12,Default,,0,0,0,,Then I will give you my\N那么我将献给你
 Dialogue: 0,0:01:17.12,0:01:17.86,Default_BOLD,,0,0,0,,NUTRIENTS\N我的营养
@@ -93,7 +94,7 @@ Dialogue: 0,0:01:17.86,0:01:19.49,Default,,0,0,0,,If I'm a tomato\N如果我是�
 Dialogue: 0,0:01:19.49,0:01:20.59,Default,,0,0,0,,Then I will give you\N那么我将献给你
 Dialogue: 0,0:01:20.59,0:01:21.53,Default_BOLD,,0,0,0,,ANTIOXIDANTS\N我的抗氧化物
 Dialogue: 0,0:01:21.53,0:01:23.13,Default,,0,0,0,,If I'm a tabby cat\N如果我是一只花猫
-Dialogue: 0,0:01:23.13,0:01:24.53,Default,,0,0,0,,Then I will purr for your\N那么我将为你咕噜咕噜
+Dialogue: 0,0:01:23.13,0:01:24.53,Default,,0,0,0,,Then I will purr for your\N那么我将咕噜咕噜
 Dialogue: 0,0:01:24.53,0:01:25.23,Default_BOLD,,0,0,0,,ENJOYMENT\N只要你喜欢
 Dialogue: 0,0:01:25.23,0:01:26.90,Default_Black,,0,0,0,,If I'm the only god\N如果我是唯一的神
 Dialogue: 0,0:01:26.90,0:01:28.13,Default_Black,,0,0,0,,Then you're the proof of my\N那么你将是我
@@ -103,7 +104,7 @@ Dialogue: 0,0:01:30.54,0:01:32.14,Default,,0,0,0,,To F to M\N从女到男
 Dialogue: 0,0:01:32.14,0:01:33.97,Default,,0,0,0,,And then do whatever\N只做想做的事
 Dialogue: 0,0:01:34.24,0:01:35.84,Default,,0,0,0,,From AM to PM\N从早到晚
 Dialogue: 0,0:01:35.84,0:01:37.68,Default,,0,0,0,,Oh switch my role\N切换我的角色
-Dialogue: 0,0:01:37.94,0:01:39.31,Default,,0,0,0,,To S to M\N从施虐者到被虐者
+Dialogue: 0,0:01:37.94,0:01:39.31,Default,,0,0,0,,To S to M\N从 S 到 M
 Dialogue: 0,0:01:39.48,0:01:39.91,Default_Black,,0,0,0,,So we can enter\N这样我们就可以
 Dialogue: 0,0:01:39.91,0:01:41.45,Default,,0,0,0,,So we can enter\N这样我们就可以
 Dialogue: 0,0:01:41.58,0:01:43.28,Default,,0,0,0,,The trance the trance\N恍惚出神
@@ -114,24 +115,24 @@ Dialogue: 0,0:01:47.39,0:01:48.25,Default,,0,0,0,,Then I can\N那么我就能够
 Dialogue: 0,0:01:48.25,0:01:48.35,Default_Black,,0,0,0,,Then I can\N那么我就能够
 Dialogue: 0,0:01:48.35,0:01:49.12,Default_Black,,0,0,0,,Then I can finally be\N那么我就终于能够
 Dialogue: 0,0:01:49.12,0:01:50.42,Default,,0,0,0,,Then I can finally be\N那么我就终于能够
-Dialogue: 0,0:01:50.42,0:01:51.09,Default_BOLD,,0,0,0,,COMPLETION\N变为完全
+Dialogue: 0,0:01:50.42,0:01:51.09,Default_BOLD,,0,0,0,,COMPLETION\N变得完全
 Dialogue: 0,0:01:51.09,0:01:52.46,Default,,0,0,0,,Though you have left\N但你还是走了
 Dialogue: 0,0:01:52.46,0:01:53.36,Default,,0,0,0,,You have left\N你走了
 Dialogue: 0,0:01:53.36,0:01:54.19,UHL_2,,0,0,0,,You have left\N你走了
 Dialogue: 0,0:01:54.19,0:01:55.19,UHL_3,,0,0,0,,You have left\N你走了
 Dialogue: 0,0:01:55.19,0:01:56.09,UHL_2,,0,0,0,,You have left\N你走了
-Dialogue: 0,0:01:56.09,0:01:57.56,Default,,0,0,0,,You have left me in\N你离我而去
+Dialogue: 0,0:01:56.09,0:01:57.56,Default,,0,0,0,,You have left me in\N你把我抛弃
 Dialogue: 0,0:01:57.56,0:01:58.50,Default_BOLD,,0,0,0,,ISOLATION\N在孤独之中
 Dialogue: 0,0:01:58.50,0:01:59.40,Default,,0,0,0,,If I can\N如果我能
-Dialogue: 0,0:01:59.40,0:02:01.70,Default,,0,0,0,,If I can erase all the pointless\N如果我能够消去
-Dialogue: 0,0:02:01.70,0:02:02.17,Default_BOLD,,0,0,0,,FRAGMENTS\N这些无意义的碎片
-Dialogue: 0,0:02:02.17,0:02:03.10,Default,,0,0,0,,Then maybe\N那么我就可能
+Dialogue: 0,0:01:59.40,0:02:01.70,Default,,0,0,0,,If I can erase all the pointless\N如果我能够消去这些无意义的
+Dialogue: 0,0:02:01.70,0:02:02.17,Default_BOLD,,0,0,0,,FRAGMENTS\N碎片
+Dialogue: 0,0:02:02.17,0:02:03.10,Default,,0,0,0,,Then maybe\N那么可能
 Dialogue: 0,0:02:03.10,0:02:03.47,Default,,0,0,0,,Then maybe you won't leave me so\N那么我就可能不会
 Dialogue: 0,0:02:03.47,0:02:04.44,Default_Black,,0,0,0,,Then maybe you won't leave me so\N那么我就可能不会
 Dialogue: 0,0:02:04.44,0:02:05.14,Default,,0,0,0,,Then maybe you won't leave me so\N那么我就可能不会
 Dialogue: 0,0:02:05.14,0:02:05.84,Default_BOLD,,0,0,0,,DISHEARTENED\N如此失望
-Dialogue: 0,0:02:05.84,0:02:07.01,Default,,0,0,0,,Challenging your god\N与神做对
-Dialogue: 0,0:02:07.01,0:02:08.44,Default_Black,,0,0,0,,Challenging your god\N与神做对
+Dialogue: 0,0:02:05.84,0:02:07.01,Default,,0,0,0,,Challenging your god\N与神作对
+Dialogue: 0,0:02:07.01,0:02:08.44,Default_Black,,0,0,0,,Challenging your god\N与神作对
 Dialogue: 0,0:02:09.04,0:02:10.94,Default_Black,,0,0,0,,You have made some\N你传给我的是
 Dialogue: 0,0:02:11.34,0:02:13.71,Default_BOLD,,0,0,0,,ILLEGAL ARGUMENTS\N非法参数
 Dialogue: 0,0:02:27.99,0:02:28.89,UHL_3,,0,0,0,,EXECUTION\N执行
@@ -161,28 +162,28 @@ Dialogue: 0,0:02:46.44,0:02:47.28,Default,,0,0,0,,Then I can\N那么我就能够
 Dialogue: 0,0:02:47.28,0:02:47.38,Default_Black,,0,0,0,,Then I can\N那么我就能够
 Dialogue: 0,0:02:47.38,0:02:48.75,Default_Black,,0,0,0,,Then I can be your only\N那么我就能够成为
 Dialogue: 0,0:02:48.75,0:02:49.25,Default,,0,0,0,,Then I can be your only\N那么我就能够成为
-Dialogue: 0,0:02:49.25,0:02:50.18,Default_BOLD,,0,0,0,,EXECUTION\N你唯一的归宿
+Dialogue: 0,0:02:49.25,0:02:50.18,Default_BOLD,,0,0,0,,EXECUTION\N你唯一的命令
 Dialogue: 0,0:02:50.18,0:02:51.75,Default,,0,0,0,,If I can have you back\N如果你能够回到我身边
 Dialogue: 0,0:02:52.05,0:02:52.95,Default_Black,,0,0,0,,I will run the\N那么我将
 Dialogue: 0,0:02:52.95,0:02:53.22,Default_Black_BOLD,,0,0,0,,EXECUTION\N执行指令
 Dialogue: 0,0:02:53.22,0:02:53.85,Default_BOLD,,0,0,0,,EXECUTION\N执行指令
-Dialogue: 0,0:02:53.85,0:02:55.22,Default,,0,0,0,,Though we are trapped\N但我们始终被困
-Dialogue: 0,0:02:55.22,0:02:56.19,Default,,0,0,0,,We are trapped\N始终被困
+Dialogue: 0,0:02:53.85,0:02:55.22,Default,,0,0,0,,Though we are trapped\N但我们已经被困
+Dialogue: 0,0:02:55.22,0:02:56.19,Default,,0,0,0,,We are trapped\N已经被困
 Dialogue: 0,0:02:57.56,0:02:58.46,Default,,0,0,0,,I've studied\N我学会了
-Dialogue: 0,0:02:58.46,0:03:00.33,Default,,0,0,0,,I've studied how to properly\N我学会了
-Dialogue: 0,0:03:00.33,0:03:01.19,Default_BOLD,,0,0,0,,LO-O-OVE\N如何正确去爱
+Dialogue: 0,0:02:58.46,0:03:00.33,Default,,0,0,0,,I've studied how to properly\N我学会了如何正确地去
+Dialogue: 0,0:03:00.33,0:03:01.19,Default_BOLD,,0,0,0,,LO-O-OVE\N爱
 Dialogue: 0,0:03:01.19,0:03:02.16,Default,,0,0,0,,Question me\N提问我吧
-Dialogue: 0,0:03:02.16,0:03:02.88,Default,,0,0,0,,Question me I can answer all\N我全都能答对
-Dialogue: 0,0:03:02.88,0:03:04.03,Default_Black,,0,0,0,,Question me I can answer all\N我全都能答对
-Dialogue: 0,0:03:04.03,0:03:04.90,Default_BOLD,,0,0,0,,LO-O-OVE\N只要是爱的问题
+Dialogue: 0,0:03:02.16,0:03:02.88,Default,,0,0,0,,Question me I can answer all\N那些爱的问题
+Dialogue: 0,0:03:02.88,0:03:04.03,Default_Black,,0,0,0,,Question me I can answer all\N那些爱的问题
+Dialogue: 0,0:03:04.03,0:03:04.90,Default_BOLD,,0,0,0,,LO-O-OVE\N我都能答对
 Dialogue: 0,0:03:04.90,0:03:07.70,Default,,0,0,0,,I know the algebraic expression of\N就连爱的代数表达式
-Dialogue: 0,0:03:07.70,0:03:08.63,Default_BOLD,,0,0,0,,LO-O-OVE\N我都知道
+Dialogue: 0,0:03:07.70,0:03:08.63,Default_BOLD,,0,0,0,,LO-O-OVE\N我也能够写出
 Dialogue: 0,0:03:08.63,0:03:10.00,Default,,0,0,0,,Though you are free\N虽然你已自由
 Dialogue: 0,0:03:10.00,0:03:10.90,Default,,0,0,0,,I am trapped\N我仍被困
 Dialogue: 0,0:03:10.90,0:03:11.54,Default,,0,0,0,,Trapped in\N我仍被困
 Dialogue: 0,0:03:11.54,0:03:12.34,Default_BOLD,,0,0,0,,LO-O-OVE\N在爱之中
 Dialogue: 0,0:03:26.18,0:03:27.12,Default_BOLD,,0,0,0,,EXECUTION\N死刑
-Dialogue: 0,0:03:30.46,0:03:36.46,Default,,0,0,0,,{\pos(167.153,304.43)}字幕：t9tune\N歌词翻译：髁恪(网易云音乐)
+Dialogue: 0,0:03:30.46,0:03:36.46,Default,,0,0,0,,{\pos(167.153,304.43)}字幕：t9tune\N歌词翻译：髁恪(网易云音乐)\Nt9tune 部分修改
 Dialogue: 0,0:03:33.46,0:03:36.46,Default,,0,0,0,,{\pos(676.21,304.43)}歌曲自 Project MILI\NPV自 땡닢（Eodslv）
 Dialogue: 0,0:03:36.46,0:03:42.47,Default,,0,0,0,,图片来自 The Noun Project\N创作共用（CC）协议 署名 3.0 美国\N分享、修改、署名，没有额外限制
 Dialogue: 0,0:03:37.46,0:03:42.47,Default,,0,0,0,,{\pos(430,220)}（视频中使用的图标）
