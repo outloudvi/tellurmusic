@@ -1,7 +1,10 @@
 ---
-title: 'Recommend: '
-labels: recommendation
+name: recommend
+about: Recomment a song to me
+title: ''
+labels: type:dicsussion
 assignees: outloudvi
+
 ---
 
 Please fill in the infomation in this format:
