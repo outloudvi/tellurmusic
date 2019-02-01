@@ -1,6 +1,6 @@
 ---
 name: recommend
-about: Recomment a song to me
+about: Recommend a song to me
 title: ''
 labels: type:dicsussion
 assignees: outloudvi
