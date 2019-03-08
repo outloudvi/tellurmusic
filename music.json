@@ -76,6 +76,21 @@
         }
     },
     {
+        "id": 7,
+        "title": "何でも言うことを聞いてくれるアカネチャン",
+        "author": "GYARI (ft.琴葉茜/結月ゆかり/琴葉葵)",
+        "links": {
+            "soundcloud": "https://soundcloud.com/user-246536698/uexk4ca8o2z3",
+            "youtube": "https://www.youtube.com/watch?v=OVuYIMa5XBw",
+            "ncm": "https://music.163.com/#/song?id=1308818780"
+        },
+        "embed": {
+            "soundcloud": 392415474,
+            "youtube": "OVuYIMa5XBw",
+            "ncm": 1308818780
+        }
+    },
+    {
         "id": 40,
         "title": "トリノコシティ",
         "author": "40mP ft.初音ミク",
