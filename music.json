@@ -91,6 +91,18 @@
         }
     },
     {
+        "id": 8,
+        "title": "海より深い空の下",
+        "author": "ときのそら (Tokino Sora) ft. 280 Sora-tomos",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=yYDTBE95ynU",
+            "bilibili": "https://www.bilibili.com/video/av39015312"
+        },
+        "embed": {
+            "youtube": "yYDTBE95ynU"
+        }
+    },
+    {
         "id": 40,
         "title": "トリノコシティ",
         "author": "40mP ft.初音ミク",
