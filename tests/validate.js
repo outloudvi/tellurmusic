@@ -52,7 +52,7 @@ function validate(data) {
     assert(data.map(x => x.embed)
         .filter(x => checkEmbed(x) !== true)
         .length === 0
-        , "All songs have authors")
+        , "All songs have embed links")
     return true
 }
 
