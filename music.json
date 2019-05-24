@@ -35,7 +35,8 @@
         },
         "embed": {
             "soundcloud": 527194302,
-            "ncm": 1323458971
+            "ncm": 1323458971,
+            "bilibili": 45114889
         }
     },
     {
@@ -61,7 +62,8 @@
         "embed": {
             "soundcloud": 261771017,
             "ncm": 413961906,
-            "youtube": "tIhL2KHVdgE"
+            "youtube": "tIhL2KHVdgE",
+            "bilibili": 4963495
         }
     },
     {
@@ -87,7 +89,8 @@
         "embed": {
             "soundcloud": 392415474,
             "youtube": "OVuYIMa5XBw",
-            "ncm": 1308818780
+            "ncm": 1308818780,
+            "bilibili": "17699810?1"
         }
     },
     {
@@ -99,7 +102,8 @@
             "bilibili": "https://www.bilibili.com/video/av39015312"
         },
         "embed": {
-            "youtube": "yYDTBE95ynU"
+            "youtube": "yYDTBE95ynU",
+            "bilibili": 39015312
         }
     },
     {
@@ -114,7 +118,8 @@
         "embed": {
             "soundcloud": 48682620,
             "ncm": 22821020,
-            "youtube": "yIQDGwyJpSo"
+            "youtube": "yIQDGwyJpSo",
+            "bilibili": 17576
         }
     }
 ]
