@@ -1,15 +1,17 @@
 [
     {
-        "id": 1,
-        "title": "Tide (Feat. Ke'nekt)",
-        "author": "Foria",
+        "id": 9,
+        "title": "Harmonics (feat. Luka & GUMI)",
+        "author": "Yunosuke, Circus-P",
         "links": {
-            "soundcloud": "https://soundcloud.com/foria/foria-tide-feat-kenekt",
-            "ncm": "https://music.163.com/#/song?id=39443010"
+            "soundcloud": "https://soundcloud.com/bass_ynk/harmonics",
+            "youtube": "https://www.youtube.com/watch?v=TAcdf3xi2Y0",
+            "bilibili": "https://www.bilibili.com/video/av46145964"
         },
         "embed": {
-            "soundcloud": 237174647,
-            "ncm": 39443010
+            "soundcloud": 589368417,
+            "bilibili": 46145964,
+            "youtube": "TAcdf3xi2Y0"
         }
     },
     {
