@@ -1,5 +1,18 @@
 [
     {
+        "id": 10,
+        "title": "明日の君さえいればいい。",
+        "author": "Choucho",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=XCPTxNmB__E",
+            "ncm": "https://music.163.com/#/song?id=514774397"
+        },
+        "embed": {
+            "youtube": "XCPTxNmB__E",
+            "ncm": 514774397
+        }
+    },
+    {
         "id": 9,
         "title": "Harmonics (feat. Luka & GUMI)",
         "author": "Yunosuke, Circus-P",
@@ -93,19 +106,6 @@
             "youtube": "OVuYIMa5XBw",
             "ncm": 1308818780,
             "bilibili": "17699810?1"
-        }
-    },
-    {
-        "id": 8,
-        "title": "海より深い空の下",
-        "author": "ときのそら (Tokino Sora) ft. 280 Sora-tomos",
-        "links": {
-            "youtube": "https://www.youtube.com/watch?v=yYDTBE95ynU",
-            "bilibili": "https://www.bilibili.com/video/av39015312"
-        },
-        "embed": {
-            "youtube": "yYDTBE95ynU",
-            "bilibili": 39015312
         }
     },
     {
