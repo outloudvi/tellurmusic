@@ -49,10 +49,6 @@ function validate(data) {
         .filter(x => x === undefined || x == "")
         .length === 0
         , "All songs have authors")
-    assert(data.map(x => x.embed)
-        .filter(x => checkEmbed(x) !== true)
-        .length === 0
-        , "All songs have embed links")
     return true
 }
 
