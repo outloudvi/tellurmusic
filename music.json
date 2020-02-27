@@ -1,4 +1,22 @@
 [
+  {
+    "id": 15,
+    "title": "Red Eyes",
+    "author": "NGC 3.14",
+    "links": {},
+    "embed": {
+      "uri": "https://res.cloudinary.com/dgeccmuiy/video/upload/v1582819243/mainpage/NGC%203.14%20-%20Restore.mp3"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Restore",
+    "author": "NGC 3.14",
+    "links": {},
+    "embed": {
+      "uri": "https://res.cloudinary.com/dgeccmuiy/video/upload/v1582819232/mainpage/NGC%203.14%20-%20Red%20Eyes.mp4"
+    }
+  },
     {
         "id": 13,
         "title": "Need You",
@@ -151,7 +169,8 @@
             "soundcloud": 48682620,
             "ncm": 22821020,
             "youtube": "yIQDGwyJpSo",
-            "bilibili": 17576
+            "bilibili": 17576,
+            "uri": "https://res.cloudinary.com/dgeccmuiy/video/upload/v1582819356/mainpage/%E3%83%88%E3%83%AA%E3%83%8E%E3%82%B3%E3%82%B7%E3%83%86%E3%82%A3.mp3"
         }
     }
 ]
